@@ -30,7 +30,7 @@ const HomeScreen = () => {
       });
   },[]);
 
-  console.log(featuredCategories)
+  // console.log(featuredCategories)
   
   return (
     <SafeAreaView className="bg-white pt-5">
